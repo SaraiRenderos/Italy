@@ -1,0 +1,44 @@
+.imgDishes{
+    max-width: 100%;
+    border-bottom: 10px solid red; 
+}
+.img-home{
+
+    max-width: 100%;
+}
+.Home{
+    margin-bottom:5%; 
+}
+.nav-link:hover {
+    color: black;
+}  
+.carousel .slide{
+    margin-top:10%; 
+}
+.title-dishes{
+    margin: 10%;
+}
+.titleSaucers, .nav-link,.CS_li{
+    color: red;
+   
+}
+.drinks{
+    margin-top: 5%;
+    text-align: center;
+}
+.Desserts{
+    margin-top: 2%;
+    padding: 5%;
+    background: black;
+    color: aliceblue;
+}
+.Desserts .row{
+    margin: 0;
+}
+.imgdessert img{
+    max-width: 100%;
+    height: 200px;
+}
+ol .carousel-indicators{
+    background: red;
+    margin: -1%;}
